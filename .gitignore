@@ -1,0 +1,16 @@
+# anything g++ leaves behind
+*.o
+*.exe
+*.bin
+
+# environment
+.venv/
+__pycache__/
+
+# build folders
+build/
+
+# secure stuff
+secrets.h
+.env
+

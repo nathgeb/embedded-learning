@@ -26,3 +26,8 @@ What's the difference between a declaration and a definition? Why does the order
 
 Which concept from tonight is the shakiest for you?
 -the binary stuff with negatives and whatnot, and second place the file/path stuff
+
+Three differences between a pointer and refrence?
+-Pointer has its own memory adress, refrence is the same as the variable, pointer can point at nothing, refrence requires something to exist, a pointer can change its vaue, a refrence is permanent. 
+What does *c++ do?
+-it grabs value where c points, then increments where c points. 
